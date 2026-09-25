@@ -1,0 +1,9 @@
+*.pcap
+*.pcapng
+*.log
+*.cap
+*.zip
+.env
+__pycache__/
+.DS_Store
+evidence/private/
